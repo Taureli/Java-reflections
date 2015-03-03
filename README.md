@@ -1,6 +1,13 @@
 #Reflection benchmark
 Autor: Jakub Karolczak
 
+> Spis treści:
+> * [Krótki wstęp o programie](#krótki-wstęp-o-programie)
+> * [Wykonywanie testów](#wykonywanie-testów)
+>  * [Skrypt](#skrypt)
+>  * [Otrzymane czasy](#otrzymane-czasy)
+> * [Wnioski](#wnioski)
+
 ##Krótki wstęp o programie
 
 [Główny kod programu](https://github.com/Taureli/Java-reflections/blob/master/src/Main.java).
@@ -35,6 +42,7 @@ Czasy, wypisane przez program i skrypt w [pliku wyjściowym](https://github.com/
 |8|1062ms|16ms|1266ms|15ms|889ms|16ms|
 |9|1084ms|0ms|1250ms|16ms|875ms|0ms|
 |10|1092ms|16ms|1250ms|16ms|869ms|16ms|
+|średnio|1085,8ms|6,4ms|1252,7ms|15,5ms|84ms|9,3ms|
 
 ####Zmienna typu referencyjnego
 
@@ -50,5 +58,12 @@ Czasy, wypisane przez program i skrypt w [pliku wyjściowym](https://github.com/
 |8|1215ms|0ms|1781ms|16ms|1000ms|16ms|
 |9|1219ms|0ms|1789ms|16ms|953ms|16ms|
 |10|1219ms|16ms|1797ms|15ms|972ms|0ms|
+|średnio|1220,5ms|7,9ms|1787,6ms|21,9ms|974,1ms|9,4ms|
 
 ##Wnioski
+
+Możemy łatwo zauważyć, że różnica między czasami wykonań operacji bezpośrednio a przez refleksje jest bardzo duża, z korzyścią czasową dla operacji bezpośrednich.
+
+Zauważalna jest również różnica w czasach między zmienną prostą a referencyjną, gdzie operacje są zdecydowanie dłuższe dla typu referencyjnego, zwłaszcza z wykorzystaniem refleksji.
+
+Należy oczywiście wziąć pod uwagę fakt, że wszystkie wyniki podane są w milisekundach, trudno więc tu mówić o faktycznie mocno odczuwalnych różnicach czasowych.
