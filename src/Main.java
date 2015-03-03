@@ -2,8 +2,8 @@ import java.lang.reflect.*;
 
 class Client{
 	public String imie;
-	public int age = 20;	//typ prosty
-//	public Integer age = 20;	//referencja
+//	public int age = 20;	//typ prosty
+	public Integer age = 20;	//referencja
 	
 	public Client(String imie){
 		this.imie = imie;

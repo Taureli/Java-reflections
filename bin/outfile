@@ -1,0 +1,165 @@
+Zmienna typu prostego:
+
+Wykonanie: 1
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1110 milisekund
+Czas odczytu bez reflection:		0 milisekund
+Czas zapisu z reflection:		1271 milisekund
+Czas zapisu bez reflection:		15 milisekund
+Czas wywo³ania metody z reflection:	875 milisekund
+Czas wywo³ania metody bez reflection:	0 milisekund
+Wykonanie: 2
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1062 milisekund
+Czas odczytu bez reflection:		16 milisekund
+Czas zapisu z reflection:		1234 milisekund
+Czas zapisu bez reflection:		16 milisekund
+Czas wywo³ania metody z reflection:	889 milisekund
+Czas wywo³ania metody bez reflection:	16 milisekund
+Wykonanie: 3
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1068 milisekund
+Czas odczytu bez reflection:		16 milisekund
+Czas zapisu z reflection:		1235 milisekund
+Czas zapisu bez reflection:		15 milisekund
+Czas wywo³ania metody z reflection:	891 milisekund
+Czas wywo³ania metody bez reflection:	0 milisekund
+Wykonanie: 4
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1108 milisekund
+Czas odczytu bez reflection:		0 milisekund
+Czas zapisu z reflection:		1271 milisekund
+Czas zapisu bez reflection:		16 milisekund
+Czas wywo³ania metody z reflection:	891 milisekund
+Czas wywo³ania metody bez reflection:	15 milisekund
+Wykonanie: 5
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1079 milisekund
+Czas odczytu bez reflection:		0 milisekund
+Czas zapisu z reflection:		1250 milisekund
+Czas zapisu bez reflection:		15 milisekund
+Czas wywo³ania metody z reflection:	921 milisekund
+Czas wywo³ania metody bez reflection:	15 milisekund
+Wykonanie: 6
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1084 milisekund
+Czas odczytu bez reflection:		0 milisekund
+Czas zapisu z reflection:		1235 milisekund
+Czas zapisu bez reflection:		15 milisekund
+Czas wywo³ania metody z reflection:	875 milisekund
+Czas wywo³ania metody bez reflection:	0 milisekund
+Wykonanie: 7
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1109 milisekund
+Czas odczytu bez reflection:		0 milisekund
+Czas zapisu z reflection:		1265 milisekund
+Czas zapisu bez reflection:		16 milisekund
+Czas wywo³ania metody z reflection:	865 milisekund
+Czas wywo³ania metody bez reflection:	15 milisekund
+Wykonanie: 8
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1062 milisekund
+Czas odczytu bez reflection:		16 milisekund
+Czas zapisu z reflection:		1266 milisekund
+Czas zapisu bez reflection:		15 milisekund
+Czas wywo³ania metody z reflection:	889 milisekund
+Czas wywo³ania metody bez reflection:	16 milisekund
+Wykonanie: 9
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1084 milisekund
+Czas odczytu bez reflection:		0 milisekund
+Czas zapisu z reflection:		1250 milisekund
+Czas zapisu bez reflection:		16 milisekund
+Czas wywo³ania metody z reflection:	875 milisekund
+Czas wywo³ania metody bez reflection:	0 milisekund
+Wykonanie: 10
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1092 milisekund
+Czas odczytu bez reflection:		16 milisekund
+Czas zapisu z reflection:		1250 milisekund
+Czas zapisu bez reflection:		16 milisekund
+Czas wywo³ania metody z reflection:	869 milisekund
+Czas wywo³ania metody bez reflection:	16 milisekund
+
+Zmienna typu referencyjnego:
+
+Wykonanie: 1
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1203 milisekund
+Czas odczytu bez reflection:		0 milisekund
+Czas zapisu z reflection:		1813 milisekund
+Czas zapisu bez reflection:		16 milisekund
+Czas wywo³ania metody z reflection:	959 milisekund
+Czas wywo³ania metody bez reflection:	16 milisekund
+Wykonanie: 2
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1203 milisekund
+Czas odczytu bez reflection:		0 milisekund
+Czas zapisu z reflection:		1766 milisekund
+Czas zapisu bez reflection:		31 milisekund
+Czas wywo³ania metody z reflection:	1000 milisekund
+Czas wywo³ania metody bez reflection:	0 milisekund
+Wykonanie: 3
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1203 milisekund
+Czas odczytu bez reflection:		16 milisekund
+Czas zapisu z reflection:		1766 milisekund
+Czas zapisu bez reflection:		31 milisekund
+Czas wywo³ania metody z reflection:	984 milisekund
+Czas wywo³ania metody bez reflection:	16 milisekund
+Wykonanie: 4
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1214 milisekund
+Czas odczytu bez reflection:		16 milisekund
+Czas zapisu z reflection:		1781 milisekund
+Czas zapisu bez reflection:		16 milisekund
+Czas wywo³ania metody z reflection:	969 milisekund
+Czas wywo³ania metody bez reflection:	15 milisekund
+Wykonanie: 5
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1219 milisekund
+Czas odczytu bez reflection:		15 milisekund
+Czas zapisu z reflection:		1774 milisekund
+Czas zapisu bez reflection:		31 milisekund
+Czas wywo³ania metody z reflection:	969 milisekund
+Czas wywo³ania metody bez reflection:	15 milisekund
+Wykonanie: 6
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1219 milisekund
+Czas odczytu bez reflection:		16 milisekund
+Czas zapisu z reflection:		1797 milisekund
+Czas zapisu bez reflection:		31 milisekund
+Czas wywo³ania metody z reflection:	966 milisekund
+Czas wywo³ania metody bez reflection:	0 milisekund
+Wykonanie: 7
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1219 milisekund
+Czas odczytu bez reflection:		0 milisekund
+Czas zapisu z reflection:		1812 milisekund
+Czas zapisu bez reflection:		16 milisekund
+Czas wywo³ania metody z reflection:	969 milisekund
+Czas wywo³ania metody bez reflection:	0 milisekund
+Wykonanie: 8
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1215 milisekund
+Czas odczytu bez reflection:		0 milisekund
+Czas zapisu z reflection:		1781 milisekund
+Czas zapisu bez reflection:		16 milisekund
+Czas wywo³ania metody z reflection:	1000 milisekund
+Czas wywo³ania metody bez reflection:	16 milisekund
+Wykonanie: 9
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1219 milisekund
+Czas odczytu bez reflection:		0 milisekund
+Czas zapisu z reflection:		1789 milisekund
+Czas zapisu bez reflection:		16 milisekund
+Czas wywo³ania metody z reflection:	953 milisekund
+Czas wywo³ania metody bez reflection:	16 milisekund
+Wykonanie: 10
+Iloœæ wykonanych powtórzeñ:		100000000
+Czas odczytu z reflection:		1219 milisekund
+Czas odczytu bez reflection:		16 milisekund
+Czas zapisu z reflection:		1797 milisekund
+Czas zapisu bez reflection:		15 milisekund
+Czas wywo³ania metody z reflection:	972 milisekund
+Czas wywo³ania metody bez reflection:	0 milisekund
