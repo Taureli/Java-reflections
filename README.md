@@ -23,8 +23,8 @@ Czasy, wypisane przez program i skrypt w [pliku wyjściowym](https://github.com/
 
 ####Zmienna typu prostego
 
-|wykonanie|odczyt z reflection|odczyt bez reflection|zapis z reflection|wywołanie metody z reflection|wywołanie metody bez reflection|
-|:-----:|:---:|:-----:|:---:|:-----:|:---:|
+|wykonanie|odczyt z reflection|odczyt bez reflection|zapis z reflection|zapis bez reflection|wywołanie metody z reflection|wywołanie metody bez reflection|
+|:-----:|:---:|:-----:|:---:|:-----:|:---:|:-----:|
 |1|1110ms|0ms|1271ms|15ms|875ms|0ms|
 |2|1062ms|16ms|1234ms|16ms|889ms|16ms|
 |3|1068ms|16ms|1235ms|15ms|891ms|0ms|
@@ -38,8 +38,8 @@ Czasy, wypisane przez program i skrypt w [pliku wyjściowym](https://github.com/
 
 ####Zmienna typu referencyjnego
 
-|wykonanie|odczyt z reflection|odczyt bez reflection|zapis z reflection|wywołanie metody z reflection|wywołanie metody bez reflection|
-|:-----:|:---:|:-----:|:---:|:-----:|:---:|
+|wykonanie|odczyt z reflection|odczyt bez reflection|zapis z reflection|zapis bez reflection|wywołanie metody z reflection|wywołanie metody bez reflection|
+|:-----:|:---:|:-----:|:---:|:-----:|:---:|:-----:|
 |1|1203ms|0ms|1813ms|16ms|959ms|16ms|
 |2|1203ms|0ms|1766ms|31ms|1000ms|0ms|
 |3|1203ms|16ms|1766ms|31ms|984ms|16ms|
